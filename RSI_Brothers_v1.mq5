@@ -1,4 +1,4 @@
-﻿//#property copyright "Mitsuaki Sonoda"
+﻿//#property copyright "mitsuaki-41"
 #property description "EA using multi-timeframe RSI."
 #property description "---- Set Up ----"
 #property description "Trend Following = true:"
