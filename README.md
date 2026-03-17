@@ -1,5 +1,5 @@
 # RSI_Brothers
-Customizable multi-timeframe RSI based Expert-Advisor (EA) for Metatrader5 (MT5) algorithmic trading.  
+Customizable multi-timeframe RSI based Expert-Advisor (EA) for Metatrader5 (MT5) algorithmic trading, optional grid mode is available.  
   
 ---- Set Up ----  
 Trend Following = true:  
