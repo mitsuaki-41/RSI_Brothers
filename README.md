@@ -3,9 +3,11 @@ Customizable multi-timeframe RSIs based Expert-Advisor (EA) for Metatrader5 (MT5
   
 ---- Set Up ----  
 Trend Following = true:  
-Higher RSI Signal Bullish and Current RSI Oversold -> Buy, Higher RSI Signal Bearish and Current RSI Overbought -> Sell.  
+Higher RSI Signal Bullish and Current RSI Oversold -> Buy,  
+Higher RSI Signal Bearish and Current RSI Overbought -> Sell.  
 Trend Following = false:  
-Higher RSI Signal Bullish and Current RSI Overbought -> Sell, Higher RSI Signal Bearish and Current RSI Oversold -> Buy.  
+Higher RSI Signal Bullish and Current RSI Overbought -> Sell,  
+Higher RSI Signal Bearish and Current RSI Oversold -> Buy.  
   
 ---- Lot Calculation ----  
 First Lot = Equity * Coefficient Value * / 1000  
