@@ -15,7 +15,7 @@ The Maximum Initial Lot Size is Calculated based on the Lot Multiplier, Loss Cou
   
 <img alt="preview1" src="https://github.com/mitsuaki-41/RSI_Brothers/blob/main/preview1.png?raw=true" width="842" />  
   
----- Tips ----　　
+---- Tips ----  
 EA was Tested on XAUUSD M10.  
 By default, it's tuned for M10 XAUUSD. (There might be another better balance.)  
 My FX account is based on Japanese Yen, so to convert it to USD, You need to multiply the Coefficient Value by approximately 150.　
