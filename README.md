@@ -2,12 +2,18 @@
 Customizable multi-timeframe RSIs based Expert-Advisor (EA) for Metatrader5 (MT5) algorithmic trading, optional grid-mode and martingale-mode is also available.  
   
 ---- Set Up ----  
-Trend Following = true:  
+Trend Following = true, Idiotical Mode = false:  
 Longer RSI Signal Bullish and Current RSI Oversold -> Buy,  
 Longer RSI Signal Bearish and Current RSI Overbought -> Sell.  
-Trend Following = false:  
+Trend Following = false, Idiotical Mode = false:  
 Longer RSI Signal Bullish and Current RSI Overbought -> Sell,  
 Longer RSI Signal Bearish and Current RSI Oversold -> Buy.  
+Trend Following = true, Idiotical Mode = true:  
+Longer RSI Signal Bullish and Current RSI Oversold -> Sell,  
+Longer RSI Signal Bearish and Current RSI Overbought -> Buy.  
+Trend Following = false, Idiotical Mode = true:  
+Longer RSI Signal Bullish and Current RSI Overbought -> Buy,  
+Longer RSI Signal Bearish and Current RSI Oversold -> Sell. 
   
 ---- Lot Calculation ----  
 Initial Lot = Equity * Coefficient Value * / 1000  
