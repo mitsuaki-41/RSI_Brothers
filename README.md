@@ -19,7 +19,7 @@ Trend Following = false, Idiotical Mode = true:
 Initial Lot = Equity * Coefficient Value * / 1000  
 The Maximum Initial Lot Size is Calculated based on the Lot Multiplier, Loss Count, Division Value.  
   
-<img alt="preview1" src="https://github.com/mitsuaki-41/RSI_Brothers/blob/main/preview1.png?raw=true" width="837" />  
+<img alt="preview1" src="https://github.com/mitsuaki-41/RSI_Brothers/blob/main/preview1.png?raw=true" width="838" />  
   
 ---- Tips ----  
 EA was Tested on M10 XAUUSD.  
