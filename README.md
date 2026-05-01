@@ -3,17 +3,17 @@ Customizable multi-timeframe RSIs based Expert-Advisor (EA) for Metatrader5 (MT5
   
 ---- Set Up ----  
 Trend Following = true, Idiotical Mode = false:  
-&emsp;Longer RSI Signal Bullish and Current RSI Oversold -> Buy,  
-&emsp;Longer RSI Signal Bearish and Current RSI Overbought -> Sell.  
+&emsp;Long RSI Signal Bullish and Current RSI Oversold -> Buy,  
+&emsp;Long RSI Signal Bearish and Current RSI Overbought -> Sell.  
 Trend Following = false, Idiotical Mode = false:  
-&emsp;Longer RSI Signal Bullish and Current RSI Overbought -> Sell,  
-&emsp;Longer RSI Signal Bearish and Current RSI Oversold -> Buy.  
+&emsp;Long RSI Signal Bullish and Current RSI Overbought -> Sell,  
+&emsp;Long RSI Signal Bearish and Current RSI Oversold -> Buy.  
 Trend Following = true, Idiotical Mode = true:  
-&emsp;Longer RSI Signal Bullish and Current RSI Oversold -> Sell,  
-&emsp;Longer RSI Signal Bearish and Current RSI Overbought -> Buy.  
+&emsp;Long RSI Signal Bullish and Current RSI Oversold -> Sell,  
+&emsp;Long RSI Signal Bearish and Current RSI Overbought -> Buy.  
 Trend Following = false, Idiotical Mode = true:  
-&emsp;Longer RSI Signal Bullish and Current RSI Overbought -> Buy,  
-&emsp;Longer RSI Signal Bearish and Current RSI Oversold -> Sell. 
+&emsp;Long RSI Signal Bullish and Current RSI Overbought -> Buy,  
+&emsp;Long RSI Signal Bearish and Current RSI Oversold -> Sell. 
   
 ---- Lot Calculation ----  
 Initial Lot = Equity * Coefficient Value * / 1000  
@@ -23,6 +23,6 @@ The Maximum Initial Lot Size is Calculated based on the Lot Multiplier, Loss Cou
   
 ---- Tips ----  
 Setting is not optimized, find better configuration.  
-When MT5 restarts, a Longer RSI Signal is reset to Initial-Trend-Signal value. Therefore, if you can recognize that a Longer RSI Signal is within a trend at that time, you need to manually set a Initial-Trend-Signal value.  
+When MT5 restarts, a Long RSI Signal is reset to Initial-Trend-Signal value. Therefore, if you can recognize that a Long RSI Signal is within a trend at that time, you need to manually set a Initial-Trend-Signal value.  
   
 <img alt="preview2" src="https://github.com/mitsuaki-41/RSI_Brothers/blob/main/preview2.png?raw=true" width="516" />  
